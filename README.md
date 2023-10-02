@@ -5,27 +5,20 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#contact">Contact</a></li>
+        <li> <a href="#about-the-project">About The Project</a>
+        <li> <a href="#techs-used">Built With</a>
+        <li> <a href="#resources">Getting Started</a>
+        <li> <a href="#screenshots">Contact</a>
+        <li> <a href="#license">Contact</a>
+      <li> <a href="#contact">Contact</a>
   </ol>
 </details>
 
 <!-- ABOUT THE PROJECT -->
 # About The Project
-
-An ETL project for the purpose of storing bitcoin to tl value inside of Google BigQuery without any cost.
+ne power bi dashboard projesi
+neden power bi becerisini pekiştirme, izlenim edinme
+nasıl 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -41,8 +34,8 @@ An ETL project for the purpose of storing bitcoin to tl value inside of Google B
 
 
 ## Resources
-* [Turkey GDP per Capita][turkey-gdp]
-* [Turkey import/export][turkey-import-export]
+* [Turkey's GDP per Capita][turkey-gdp]
+* [Turkey's import/export][turkey-import-export]
 * [CPI][cpi]
 * [PPI][ppi]
 * [Countries GDP per Capita][countries-gdp]
@@ -81,9 +74,10 @@ mbahadirerdem@gmail.com
 [Pandas-url]: https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white
 [PowerBi.com]: https://powerbi.microsoft.com/en-us/
 [PowerBi-url]: https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
-
 [turkey-gdp]: https://biruni.tuik.gov.tr/medas/?kn=136&locale=tr
-*Kişi Başına Gayri Safi Yurtiçi Hasıla (2009 bazlı), Değer*
+<!---
+Kişi Başına Gayri Safi Yurtiçi Hasıla (2009 bazlı), Değer
+-->
 [turkey-import-export]: https://biruni.tuik.gov.tr/disticaretapp/menu.zul
 [cpi]: https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR/Main+Menu/Istatistikler/Enflasyon+Verileri/Tuketici+Fiyatlari
 [ppi]:https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR/Main+Menu/Istatistikler/Enflasyon+Verileri/Uretici+Fiyatlari
