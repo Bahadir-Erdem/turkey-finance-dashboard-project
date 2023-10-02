@@ -25,8 +25,6 @@
 <!-- ABOUT THE PROJECT -->
 # About The Project
 
-
-
 An ETL project for the purpose of storing bitcoin to tl value inside of Google BigQuery without any cost.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -43,12 +41,16 @@ An ETL project for the purpose of storing bitcoin to tl value inside of Google B
 
 
 ## Resources
-This installation is valid for Windows 10/11 users.
-
+* [Turkey GDP per Capita][turkey-gdp]
+* [Turkey import/export][turkey-import-export]
+* [CPI][cpi]
+* [PPI][ppi]
+* [Countries GDP per Capita][countries-gdp]
+* [Countries import/export][countries-import-export]
 
 <!-- GETTING STARTED -->
 ## Prerequisites
-This installation is valid for Windows 10/11 users.
+You need to install [Power Bi Desktop][PowerBi-download] to open the .pbix file. 
 
 ## Screenshots
 ![][gdp-img]
@@ -79,8 +81,17 @@ mbahadirerdem@gmail.com
 [Pandas-url]: https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white
 [PowerBi.com]: https://powerbi.microsoft.com/en-us/
 [PowerBi-url]: https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
-[gdp-img]: ./1-gdp.PNG
-[import-export-img]: ./2-import_export.PNG
-[cpi-ppi-img]: ./3-cpi_ppi.PNG
-[usd-to-tl-img]: ./4-usd_to_tl.PNG
+
+[turkey-gdp]: https://biruni.tuik.gov.tr/medas/?kn=136&locale=tr
+*Kişi Başına Gayri Safi Yurtiçi Hasıla (2009 bazlı), Değer*
+[turkey-import-export]: https://biruni.tuik.gov.tr/disticaretapp/menu.zul
+[cpi]: https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR/Main+Menu/Istatistikler/Enflasyon+Verileri/Tuketici+Fiyatlari
+[ppi]:https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR/Main+Menu/Istatistikler/Enflasyon+Verileri/Uretici+Fiyatlari
+[countries-gdp]: https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
+[countries-import-export]: http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele_item.asp?id=37
+[PowerBi-download]: https://powerbi.microsoft.com/en-us/downloads/
+[gdp-img]: ./screenshots/1-gdp.PNG
+[import-export-img]: ./screenshots/2-import_export.PNG
+[cpi-ppi-img]: ./screenshots/3-cpi_ppi.PNG
+[usd-to-tl-img]: ./screenshots/4-usd_to_tl.PNG
 
