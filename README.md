@@ -25,14 +25,14 @@
 <!-- ABOUT THE PROJECT -->
 # About The Project
 
-![A test image](diagram.png)
+
 
 An ETL project for the purpose of storing bitcoin to tl value inside of Google BigQuery without any cost.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Built With
+## Techs Used
 * [![Python][Python-url]][Python.com]
 * [![Pandas][Pandas-url]][Pandas.com]
 * [![Power Bi][PowerBi-url]][PowerBi.com]
@@ -42,75 +42,21 @@ An ETL project for the purpose of storing bitcoin to tl value inside of Google B
 
 
 
+## Resources
+This installation is valid for Windows 10/11 users.
+
+
 <!-- GETTING STARTED -->
 ## Prerequisites
 This installation is valid for Windows 10/11 users.
 
-## Installation
+## Screenshots
+![A test image][gdp-img]
+![A test image](diagram.png)
+![A test image](diagram.png)
+![A test image](diagram.png)
 
-### 1. [Ubuntu][Ubuntu-Installation]
-***
-### 2. Apache Airflow
-  
 
-  ```sh
-   sudo apt-get install software-properties-common
-   ```
-    
-  ```sh
-   sudo apt-add-repository universe
-   ```
-
-  ```sh
-   sudo apt-get update
-   ```
- 
-   ```sh
-   sudo apt-get install python3-pip
-   ```
- 
-   ```sh
-   pip3 install apache-airflow
-   ```
-   After that installation finished close the terminal and reopen it
-  
-   ```sh
-   airflow db init
-   ```
-  Create a folder named "dags" inside your "airflow" folder.
-   
-  Create a user. An example has given below.
-   ```sh
-   airflow users create \
-          --username admin \
-          --firstname admin\
-          --lastname admin \
-          --role Admin \
-          --email admin@example.org
-   ```
-   
-   ```sh
-   pip install pandas
-   ```
-   
-   ```sh
-   pip install pandas-gbq
-   ```
-   
-   ```sh
-   pip install --upgrade numpy
-   ```
-   
-   ```sh
-   pip install pandas-gbq
-   ```
-
-***
-
-### 3. [gcloud CLI][Gcloud-Installation]
-***
-### 4. Configure Necessary Information Inside of "bitcoin_tl_project_dag.py"
-***
 ## License
 
 Distributed under the MIT License.
@@ -133,4 +79,5 @@ mbahadirerdem@gmail.com
 [Pandas-url]: https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white
 [PowerBi.com]: https://powerbi.microsoft.com/en-us/
 [PowerBi-url]: https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
+[gdp-img]: ./1-gdp.PNG
 
