@@ -51,10 +51,10 @@ This installation is valid for Windows 10/11 users.
 This installation is valid for Windows 10/11 users.
 
 ## Screenshots
-![A test image][gdp-img]
-![A test image](diagram.png)
-![A test image](diagram.png)
-![A test image](diagram.png)
+![][gdp-img]
+![][import-export-img]
+![][cpi-ppi-img]
+![][usd-to-tl-img]
 
 
 ## License
@@ -80,4 +80,7 @@ mbahadirerdem@gmail.com
 [PowerBi.com]: https://powerbi.microsoft.com/en-us/
 [PowerBi-url]: https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
 [gdp-img]: ./1-gdp.PNG
+[import-export-img]: ./2-import_export.PNG
+[cpi-ppi-img]: ./3-cpi_ppi.PNG
+[usd-to-tl-img]: ./4-usd_to_tl.PNG
 
