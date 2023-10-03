@@ -6,19 +6,21 @@
   <summary>Table of Contents</summary>
   <ol>
         <li> <a href="#about-the-project">About The Project</a>
-        <li> <a href="#techs-used">Built With</a>
-        <li> <a href="#resources">Getting Started</a>
-        <li> <a href="#screenshots">Contact</a>
-        <li> <a href="#license">Contact</a>
+        <li> <a href="#techs-used">Techs Used</a>
+        <li> <a href="#resources">Resources</a>
+        <li> <a href="#screenshots">Screenshots</a>
+        <li> <a href="#license">License</a>
       <li> <a href="#contact">Contact</a>
   </ol>
 </details>
 
 <!-- ABOUT THE PROJECT -->
 # About The Project
-ne power bi dashboard projesi
-neden power bi becerisini pekiştirme, izlenim edinme
-nasıl 
+A Power Bi dashboard project for the purpose of learning power bi and dashboard making.
+Python and Pandas used for the purpose of data gathering and cleaning if required.
+Project contains graphs about Turkey includes: Turkey's GDP per Capita compared to other countries,
+Turkey's import/export by other countries, Turkey's CPI(Customer Price Index) and PPI(Production Price Index)
+and lastly USD to TL graph. I selected this topic because i had been able to find data for this matter and there is not much of a reason than that.  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -64,8 +66,6 @@ Distributed under the MIT License.
 mbahadirerdem@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 
 [Python.com]: https://www.python.org/
