@@ -42,6 +42,7 @@ and lastly USD to TL graph. I selected this topic because i had been able to fin
 * [PPI][ppi]
 * [Countries GDP per Capita][countries-gdp]
 * [Countries import/export][countries-import-export]
+* [All the Data][data]
 
 <!-- GETTING STARTED -->
 ## Prerequisites
@@ -83,6 +84,7 @@ Kişi Başına Gayri Safi Yurtiçi Hasıla (2009 bazlı), Değer
 [ppi]:https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR/Main+Menu/Istatistikler/Enflasyon+Verileri/Uretici+Fiyatlari
 [countries-gdp]: https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
 [countries-import-export]: http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele_item.asp?id=37
+[data]: https://drive.google.com/drive/folders/1abfuSdqrJQfPYKBbcETXX5UATtpjw-uW?usp=sharing
 [PowerBi-download]: https://powerbi.microsoft.com/en-us/downloads/
 [gdp-img]: ./screenshots/1-gdp.PNG
 [import-export-img]: ./screenshots/2-import_export.PNG
